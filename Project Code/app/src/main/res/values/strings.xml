@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MC_Project</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_registered_login_here">Already registered? Login here</string>
+    <string name="login">Login</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="registration">Registration</string>
+    <string name="Calendar">Calendar</string>
+    <string name="reports">Reports</string>
+    <string name="tracker">Activity Tracker</string>
+    <string name="sos">Sos</string>
+    <string name="reminder">Medi-reminder</string>
+    <string name="logout">logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_an_account_register_here">Create an account? Register here</string>
+    <string name="hint_enter_med_name">Enter medicine name</string>
+    <string name="emergency_number">Emergency Number</string>
+    <string name="add_sos_contacts">Add SOS Contacts</string>
+    <string name="emergency_contact_information">Emergency Contact Information</string>
+</resources>
